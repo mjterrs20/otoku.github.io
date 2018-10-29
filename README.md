@@ -6,3 +6,4 @@
 hi ganteng
 hi ganteng
 >>>>>>> Rizki
+ganteng banget
